@@ -1,7 +1,7 @@
 {
   "name": "date-to-timpestamp",
   "version": "1.0.0",
-  "description": "TimeStamp Convertor",
+  "description": "Date to Timestamp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
